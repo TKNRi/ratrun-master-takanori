@@ -1,10 +1,9 @@
 <template>
-  <div>
-    <p>main-page</p>
-  </div>
+  <div></div>
 </template>
 
 <script setup>
 </script>
 
-<style lang="scss"></style>
+<style lang="scss">
+</style>
